@@ -1,12 +1,12 @@
 ---
 description: >-
-  Chess Jam (CJ) is a global, community-driven initiative designed to cultivate
+  Chess Jump (CJ) is a global, community-driven initiative designed to cultivate
   disciplined, strategic chess players worldwide.
 ---
 
-# Chess Jam White Paper
+# Chess Jump White Paper
 
-## ♟️ Chess Jam
+## ♟️ Chess Jump
 
 ### A Global Community Protocol for Lifetime Chess Mastery
 
@@ -16,13 +16,13 @@ description: >-
 
 ## Abstract
 
-Chess Jam (CJ) is a global, community-driven initiative designed to cultivate disciplined, strategic chess players worldwide.
+Chess Jump (CJ) is a global, community-driven initiative designed to cultivate disciplined, strategic chess players worldwide.
 
 It is not merely a training program.\
 It is not a temporary challenge.\
 It is not a content page.
 
-Chess Jam is a structured global community protocol built on discipline, strategic clarity, psychological resilience, and long-term compounding improvement.
+Chess Jump is a structured global community protocol built on discipline, strategic clarity, psychological resilience, and long-term compounding improvement.
 
 The objective is to unite chess players across nations under a shared philosophy:
 
@@ -50,7 +50,7 @@ Many players improve temporarily but stagnate long-term.
 The issue is not access to information.\
 The issue is lack of structured discipline and unified philosophy.
 
-Chess Jam exists to solve this.
+Chess Jump exists to solve this.
 
 ***
 
@@ -64,7 +64,7 @@ To build a worldwide, disciplined chess community that:
 * Connects players across borders
 * Sustains lifelong mastery
 
-Chess Jam envisions a decentralized global network of players committed not only to winning games, but to building structural strength in thought and character.
+Chess Jump envisions a decentralized global network of players committed not only to winning games, but to building structural strength in thought and character.
 
 The board has no nationality.
 
@@ -76,7 +76,7 @@ Strategy is universal.
 
 ## 3. Mission
 
-Chess Jam exists to:
+Chess Jump exists to:
 
 1. Create a global community rooted in discipline and respect
 2. Establish a structured lifetime framework for improvement
@@ -94,7 +94,7 @@ The mission is longevity.
 
 ### 4.1 Discipline Over Hype
 
-Chess Jam rejects shortcut culture.
+Chess Jump rejects shortcut culture.
 
 Improvement is measured by structural understanding, not social media trends.
 
@@ -116,7 +116,7 @@ Fast improvement without structure collapses.
 
 Slow, consistent improvement compounds.
 
-Chess Jam promotes directional growth over rapid rating fluctuation.
+Chess Jump promotes directional growth over rapid rating fluctuation.
 
 ***
 
@@ -136,7 +136,7 @@ Discipline strengthens it.
 
 ## 5. Community Architecture
 
-Chess Jam is built on five structural pillars.
+Chess Jump is built on five structural pillars.
 
 ***
 
@@ -170,7 +170,7 @@ Discipline is non-negotiable.
 
 ### Pillar III — Global Connectivity
 
-Chess Jam connects players:
+Chess Jump connects players:
 
 * Across countries
 * Across rating levels
@@ -200,7 +200,7 @@ Replication ensures sustainability.
 
 ### Pillar V — Legacy
 
-Chess Jam aims to produce not only competitors, but contributors.
+Chess Jump aims to produce not only competitors, but contributors.
 
 Members are encouraged to:
 
@@ -215,7 +215,7 @@ Legacy converts strength into permanence.
 
 ## 6. Strategic Development Framework
 
-Chess Jam defines improvement across four integrated domains:
+Chess Jump defines improvement across four integrated domains:
 
 #### Technical
 
@@ -251,7 +251,7 @@ Brilliance is unreliable.
 
 Error reduction is sustainable.
 
-Chess Jam defines progress as:
+Chess Jump defines progress as:
 
 * Reduced blunder frequency
 * Improved time management
@@ -273,13 +273,13 @@ Improvement compounds when:
 
 Small improvements sustained for years create exponential difference.
 
-Chess Jam is built for decades, not seasons.
+Chess Jump is built for decades, not seasons.
 
 ***
 
 ## 9. Governance Philosophy
 
-Chess Jam operates under principle-based governance:
+Chess Jump operates under principle-based governance:
 
 * Clarity over popularity
 * Discipline over ego
@@ -300,7 +300,7 @@ A strong chess community must guard against:
 * Shortcut mentality
 * Emotional volatility
 
-Chess Jam reinforces:
+Chess Jump reinforces:
 
 * Structural respect
 * Calm analysis
@@ -312,7 +312,7 @@ Security precedes expansion.
 
 ## 11. Long-Term Global Impact
 
-If successful, Chess Jam will:
+If successful, Chess Jump will:
 
 * Connect disciplined players worldwide
 * Produce structured thinkers
@@ -327,7 +327,7 @@ It is stronger minds.
 
 ## 12. Conclusion
 
-Chess Jam is not a temporary movement.
+Chess Jump is not a temporary movement.
 
 It is not a marketing project.
 
@@ -344,6 +344,6 @@ The discipline is shared.
 
 ***
 
-♟️ **Chess Jam (CJ)**\
+♟️ **Chess Jump (CJ)**\
 A Global Community for Lifetime Strategic Mastery\
 Version 1.0

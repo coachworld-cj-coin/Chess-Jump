@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Chess Jam White Paper](README.md)
+* [Chess Jump White Paper](README.md)
